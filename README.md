@@ -1,0 +1,2 @@
+# MegaManX-Demo
+Recreated basic animation, graphics, and sound for prologue level of MegaManX. Learned how to iterate through a spritesheet for animation. Megaman jumps a little funny with the space bar, runs with the arrow keys, and shoots with shift. Far from perfect but a project I was proud of because of the level of detail required to implement in such a short period of time. Plus it was fun and MegaMan X is one of my favorite SNES games.
